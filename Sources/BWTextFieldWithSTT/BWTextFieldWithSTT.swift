@@ -2,7 +2,7 @@ import SwiftUI
 import Speech
 
 @available(iOS 17.0, *)
-public struct BWSTTTextField: View {
+public struct BWTextFieldWithSTT: View {
     
     @Binding var inputText: String
     var action: () -> Void

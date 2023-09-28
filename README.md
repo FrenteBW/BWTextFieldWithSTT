@@ -6,6 +6,8 @@ Minimal & simple design.
 
 STT feature included.
 
+Use it for text fields, search bars, etc.
+
 Available on iOS 17.0+.
 
 

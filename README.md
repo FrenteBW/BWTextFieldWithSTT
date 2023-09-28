@@ -8,6 +8,8 @@ STT feature included.
 
 Use it for text fields, search bars, etc.
 
+.symbolEffect included.
+
 Available on iOS 17.0+.
 
 

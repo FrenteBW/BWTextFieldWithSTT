@@ -22,3 +22,5 @@ Available on iOS 17.0+.
 4. Import BWTextFieldWithSTT in your project.
 
 5. Declare @State var commentText = "" and function that you want to use in action.
+
+6. You have to set two privacy keys. Privacy - Speech Recognition Usage Description and Privacy - Microphone Usage Description.
